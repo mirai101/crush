@@ -5,6 +5,6 @@ Installation
 
 git clone https://github.com/mirai101/crush.git
 && cd crush
-&& ./crush.py -h
+&& python2 crush.py
 
 Rock and Roll Guys </>
