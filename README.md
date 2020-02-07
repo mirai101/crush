@@ -3,4 +3,8 @@ Crush is a Denial of Service tool
 
 Installation
 
-git clone 
+git clone https://github.com/mirai101/crush.git
+cd crush
+./crush.py -h
+
+Rock and Roll Guys </>
